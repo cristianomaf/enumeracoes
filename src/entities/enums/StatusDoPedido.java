@@ -1,0 +1,12 @@
+package entities.enums;
+
+//CLASSE ENUM COM CONSTANTES QUE REPRESENTAM STATUS
+
+public enum StatusDoPedido {
+	
+	PENDENTE_PAGAMENTO,
+	PROCESSANDO,
+	ENVIADO,
+	ENTREGUE;
+
+}
